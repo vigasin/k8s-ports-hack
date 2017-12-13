@@ -1,0 +1,1 @@
+*/5 * * * *     root /usr/local/sbin/update_hack_rule.sh
